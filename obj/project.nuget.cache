@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Kk4MUoQKhxItd6qWGpyL8X8nw7K5vk3tvMDAgCI7LRyIQYqct6QZlcGy56YPGBdMqmu3523+v3CueZMwDx2jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TiTO Tech\\source\\repos\\WinFormsApp5\\WinFormsApp5\\WinFormsApp5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TiTO Tech\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\TiTO Tech\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\TiTO Tech\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
